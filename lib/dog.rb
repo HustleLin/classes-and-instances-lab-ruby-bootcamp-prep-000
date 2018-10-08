@@ -1,1 +1,3 @@
-dog = class.New
+class Dog
+end
+fido = Dog.new
